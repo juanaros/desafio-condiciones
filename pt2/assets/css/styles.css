@@ -7,9 +7,9 @@ body {
     text-align: center;
     margin-top: 20px;
     font-family: 'Helvetica';
-    background-image: url("./../img/bb.jpeg");
+    /* background-image: url("./../img/bb.jpeg");
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size:cover; */
     color: #fff;
     font-weight: 700;
 }
